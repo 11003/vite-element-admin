@@ -8,10 +8,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 ## Project setup
 
-![1688553538853.jpg](https://s2.loli.net/2023/07/05/CHGocIknbfX2rSN.png)
-
-![1688553538838.jpg](https://s2.loli.net/2023/07/05/JT1saMXpUDbfmCq.png)
-
 ```sh
 # 安装依赖
 npm install
@@ -22,3 +18,8 @@ npm run dev
 # 项目打包
 npm run build
 ```
+
+
+![image.png](https://s2.loli.net/2023/07/05/YR9FlPeMGxHz3nm.png)
+
+![1688553538838.jpg](https://s2.loli.net/2023/07/05/JT1saMXpUDbfmCq.png)
