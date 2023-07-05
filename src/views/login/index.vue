@@ -2,7 +2,7 @@
   <div class="login-container">
     <el-form ref="formRef" :model="form" class="login-form" :rules="rules">
       <div class="title-container">
-        <h3 class="title">vite-element-vue</h3>
+        <h3 class="title">vite-element-admin</h3>
       </div>
       <el-form-item prop="username">
         <el-input v-model="form.username">
