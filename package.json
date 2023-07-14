@@ -9,16 +9,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "artplayer": "^5.0.9",
     "autoprefixer": "^10.4.14",
     "axios": "^1.4.0",
     "better-scroll": "^2.5.1",
+    "dplayer": "^1.27.1",
     "driver.js": "^0.9.8",
     "element-plus": "^2.3.7",
     "path": "^0.12.7",
+    "sass": "^1.63.6",
     "screenfull": "^6.0.2",
     "vue": "^3.2.47",
-    "sass": "^1.63.6",
     "vue-router": "^4.2.2",
+    "vue3-lottie": "^2.7.4",
     "vuex": "^4.1.0"
   },
   "devDependencies": {
