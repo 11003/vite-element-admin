@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@rongcloud/engine": "^5.8.1",
+    "@rongcloud/imlib-next": "^5.8.1",
     "artplayer": "^5.0.9",
     "autoprefixer": "^10.4.14",
     "axios": "^1.4.0",
